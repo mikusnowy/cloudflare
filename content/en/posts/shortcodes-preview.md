@@ -7,6 +7,14 @@ tags: ["preview", "shortcodes"]
 categories: ["Demos"] 
 ---
 
+## Twiiter
+
+
+
+## Google Map
+
+
+
 ## Figure
 
 {{<figure src="/images/globe.svg" alt="Globe" align="aligncenter" width="300" caption="**Globe**">}}
