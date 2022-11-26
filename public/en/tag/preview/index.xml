@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>preview on shelter</title>
+    <title>preview on Den</title>
     <link>https://www.gageluna.com/en/tag/preview/</link>
-    <description>Recent content in preview on shelter</description>
+    <description>Recent content in preview on Den</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate><atom:link href="https://www.gageluna.com/en/tag/preview/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,7 @@
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://www.gageluna.com/en/2018/03/04/shortcodes-preview/</guid>
-      <description>Figure   Globe    Highlight for Shells # test echo test # just a test echo hello world </description>
+      <description>Twiiter Google Map Figure   Globe    Highlight for Shells # test echo test # just a test echo hello world </description>
     </item>
     
   </channel>
